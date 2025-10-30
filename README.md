@@ -431,13 +431,7 @@ public class LibraryManagementApp extends JFrame {
         // DVD dvd1 = new DVD("D001", "Матриця", 1999, "Вачовскі", 136);
         // DVD dvd2 = new DVD("D002", "Інтерстеллар", 2014, "Крістофер Нолан", 169);
         // manager.addItem(dvd1);
-        // manager.addItem(dvd2);
-        
-        // -----
-        // ПРИМІТКА: Я закоментував додавання Журналів та DVD,
-        // оскільки класи для них ще не створені (TODO 11, 12).
-        // Коли ви їх створите, розкоментуйте цей код, щоб додати їх.
-        // -----
+        // manager.addItem(dvd2); 
     }
 
     private void setupUI() {
